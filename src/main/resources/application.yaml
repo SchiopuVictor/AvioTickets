@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: AvioTickets
+  datasource:
+    url: jdbc:mysql://localhost/aviotickets?createDatabaseIfNotExist=true
+    username: root
+    password: admin123
+
